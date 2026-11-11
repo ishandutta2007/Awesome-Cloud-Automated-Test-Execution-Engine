@@ -66,7 +66,7 @@ The table below catalogs premier commercial test execution clouds and managed ru
 
 For engineering teams seeking self-hosted, vendor-neutral, or Kubernetes-native test execution runners without per-parallel cloud surcharges, the following open-source projects represent the category leaders. Ranked strictly by GitHub stargazers:
 
-| Project | GitHub Stars | Description | Supported Frameworks |
+| Project | GitHub_Stars | Description | Supported Frameworks |
 | :--- | :--- | :--- | :--- |
 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers) | Foundation orchestration platform for dynamic browser scaling, orchestrating ephemeral runner pods per test session. | Any / Containerized Pods |
 | **[Playwright](https://github.com/microsoft/playwright)** | [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | Microsoft's next-gen browser automation engine featuring native parallel execution, dynamic test sharding, and trace recording. | Chromium, Firefox, WebKit |
@@ -101,7 +101,7 @@ Contributions are welcome! Please follow these guidelines:
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-engine`).
 3. 📝 Add your entry ensuring:
    - For SaaS: Include starting pricing, free tier/trial boundaries, and company size.
-   - For Open-Source: Include GitHub star badge formatted as `[![Stars](https://img.shields.io/github/stars/org/repo?style=social&color=white)](https://github.com/org/repo/stargazers)`.
+   - For Open-Source: Include GitHub Stars_Badge formatted as `[![Stars](https://img.shields.io/github/stars/org/repo?style=social&color=white)](https://github.com/org/repo/stargazers)`.
 4. 🚀 Submit a well-described Pull Request!
 
 ---

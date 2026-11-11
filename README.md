@@ -101,7 +101,7 @@ Contributions are welcome! Please follow these guidelines:
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-engine`).
 3. 📝 Add your entry ensuring:
    - For SaaS: Include starting pricing, free tier/trial boundaries, and company size.
-   - For Open-Source: Include GitHub Stars_Badge formatted as `[![Stars](https://img.shields.io/github/stars/org/repo?style=social&color=white)](https://github.com/org/repo/stargazers)`.
+   - For Open-Source: Include GitHub_Stars_Badge formatted as `[![Stars](https://img.shields.io/github/stars/org/repo?style=social&color=white)](https://github.com/org/repo/stargazers)`.
 4. 🚀 Submit a well-described Pull Request!
 
 ---
